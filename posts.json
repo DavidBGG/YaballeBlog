@@ -1,0 +1,224 @@
+[
+  {
+    "post_id": 0,
+    "title": "string",
+    "content": "string",
+    "author_id": 0,
+    "publication_date": "string",
+    "upvotes": 0,
+    "downvotes": 0,
+    "comments": [
+      {}
+    ]
+  },
+  {
+    "post_id": 1,
+    "title": "title1",
+    "content": "titletitle",
+    "author_id": 3,
+    "publication_date": "2025-07-24T17:23:08.679854",
+    "upvotes": 0,
+    "downvotes": 0,
+    "comments": []
+  },
+  {
+    "post_id": 2,
+    "title": "Test Post",
+    "content": "Test Content",
+    "author_id": 1,
+    "publication_date": "2025-07-24T17:37:58.881917",
+    "upvotes": 0,
+    "downvotes": 0,
+    "comments": []
+  },
+  {
+    "post_id": 3,
+    "title": "Moderated Title",
+    "content": "Moderated Content",
+    "author_id": 1,
+    "publication_date": "2025-07-24T17:37:58.884946",
+    "upvotes": 0,
+    "downvotes": 0,
+    "comments": []
+  },
+  {
+    "post_id": 4,
+    "title": "Test Post",
+    "content": "Test Content",
+    "author_id": 1,
+    "publication_date": "2025-07-24T17:37:58.887662",
+    "upvotes": 0,
+    "downvotes": 0,
+    "comments": []
+  },
+  {
+    "post_id": 5,
+    "title": "Test Post",
+    "content": "Test Content",
+    "author_id": 1,
+    "publication_date": "2025-07-24T17:37:58.888495",
+    "upvotes": 1,
+    "downvotes": 0,
+    "comments": []
+  },
+  {
+    "post_id": 6,
+    "title": "Test Post",
+    "content": "Test Content",
+    "author_id": 1,
+    "publication_date": "2025-07-24T17:38:14.169500+00:00",
+    "upvotes": 0,
+    "downvotes": 0,
+    "comments": []
+  },
+  {
+    "post_id": 7,
+    "title": "Moderated Title",
+    "content": "Moderated Content",
+    "author_id": 1,
+    "publication_date": "2025-07-24T17:38:14.172313+00:00",
+    "upvotes": 0,
+    "downvotes": 0,
+    "comments": []
+  },
+  {
+    "post_id": 8,
+    "title": "Test Post",
+    "content": "Test Content",
+    "author_id": 1,
+    "publication_date": "2025-07-24T17:38:14.175090+00:00",
+    "upvotes": 0,
+    "downvotes": 0,
+    "comments": []
+  },
+  {
+    "post_id": 9,
+    "title": "Test Post",
+    "content": "Test Content",
+    "author_id": 1,
+    "publication_date": "2025-07-24T17:38:14.175953+00:00",
+    "upvotes": 1,
+    "downvotes": 0,
+    "comments": []
+  },
+  {
+    "post_id": 10,
+    "title": "Test Post",
+    "content": "Test Content",
+    "author_id": 1,
+    "publication_date": "2025-07-24T17:38:28.009527+00:00",
+    "upvotes": 0,
+    "downvotes": 0,
+    "comments": []
+  },
+  {
+    "post_id": 11,
+    "title": "Moderated Title",
+    "content": "Moderated Content",
+    "author_id": 1,
+    "publication_date": "2025-07-24T17:38:28.012751+00:00",
+    "upvotes": 0,
+    "downvotes": 0,
+    "comments": []
+  },
+  {
+    "post_id": 12,
+    "title": "Test Post",
+    "content": "Test Content",
+    "author_id": 1,
+    "publication_date": "2025-07-24T17:38:28.015434+00:00",
+    "upvotes": 0,
+    "downvotes": 0,
+    "comments": []
+  },
+  {
+    "post_id": 13,
+    "title": "Test Post",
+    "content": "Test Content",
+    "author_id": 1,
+    "publication_date": "2025-07-24T17:38:28.016346+00:00",
+    "upvotes": 1,
+    "downvotes": 0,
+    "comments": []
+  },
+  {
+    "post_id": 14,
+    "title": "Test Post",
+    "content": "Test Content",
+    "author_id": 1,
+    "publication_date": "2025-07-24T17:38:33.091089+00:00",
+    "upvotes": 0,
+    "downvotes": 0,
+    "comments": []
+  },
+  {
+    "post_id": 15,
+    "title": "Moderated Title",
+    "content": "Moderated Content",
+    "author_id": 1,
+    "publication_date": "2025-07-24T17:38:33.094420+00:00",
+    "upvotes": 0,
+    "downvotes": 0,
+    "comments": []
+  },
+  {
+    "post_id": 16,
+    "title": "Test Post",
+    "content": "Test Content",
+    "author_id": 1,
+    "publication_date": "2025-07-24T17:38:33.097745+00:00",
+    "upvotes": 0,
+    "downvotes": 0,
+    "comments": []
+  },
+  {
+    "post_id": 17,
+    "title": "Test Post",
+    "content": "Test Content",
+    "author_id": 1,
+    "publication_date": "2025-07-24T17:38:33.098676+00:00",
+    "upvotes": 1,
+    "downvotes": 0,
+    "comments": []
+  },
+  {
+    "post_id": 18,
+    "title": "Test Post",
+    "content": "Test Content",
+    "author_id": 1,
+    "publication_date": "2025-07-24T17:42:56.447919+00:00",
+    "upvotes": 0,
+    "downvotes": 0,
+    "comments": []
+  },
+  {
+    "post_id": 19,
+    "title": "Moderated Title",
+    "content": "Moderated Content",
+    "author_id": 1,
+    "publication_date": "2025-07-24T17:42:56.451783+00:00",
+    "upvotes": 0,
+    "downvotes": 0,
+    "comments": []
+  },
+  {
+    "post_id": 20,
+    "title": "Test Post",
+    "content": "Test Content",
+    "author_id": 1,
+    "publication_date": "2025-07-24T17:42:56.454865+00:00",
+    "upvotes": 0,
+    "downvotes": 0,
+    "comments": []
+  },
+  {
+    "post_id": 21,
+    "title": "Test Post",
+    "content": "Test Content",
+    "author_id": 1,
+    "publication_date": "2025-07-24T17:42:56.456164+00:00",
+    "upvotes": 1,
+    "downvotes": 0,
+    "comments": []
+  }
+]

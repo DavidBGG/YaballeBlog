@@ -1,0 +1,25 @@
+sequenceDiagram
+    participant Client
+    participant API as Flask API
+    participant Data as JSON Files
+    Client->>API: POST /register (username, password)
+    API->>Data: Write user to users.json
+    API-->>Client: 201 Created
+    Client->>API: POST /login (username, password)
+    API->>Data: Read users.json
+    API-->>Client: 200 OK (token)
+    Client->>API: POST /posts (token, title, content)
+    API->>Data: Write post to posts.json
+    API-->>Client: 201 Created
+    Client->>API: GET /posts
+    API->>Data: Read posts.json
+    API-->>Client: 200 OK (posts)
+    Client->>API: POST /posts/:id/upvote
+    API->>Data: Update post in posts.json
+    API-->>Client: 200 OK (upvotes)
+    Client->>API: POST /posts/:id/comments (token, content)
+    API->>Data: Update post comments in posts.json
+    API-->>Client: 201 Created (comment)
+    Client->>API: GET /search?q=term
+    API->>Data: Read posts.json
+    API-->>Client: 200 OK (results) 

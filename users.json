@@ -1,0 +1,65 @@
+[
+  {
+    "user_id": 1,
+    "username": "testuser",
+    "password_hash": "13d249f2cb4127b40cfa757866850278793f814ded3c587fe5889e889a7a9f6c"
+  },
+  {
+    "user_id": 2,
+    "username": "swaggeruser",
+    "password_hash": "13d249f2cb4127b40cfa757866850278793f814ded3c587fe5889e889a7a9f6c"
+  },
+  {
+    "user_id": 3,
+    "username": "david",
+    "password_hash": "07d046d5fac12b3f82daf5035b9aae86db5adc8275ebfbf05ec83005a4a8ba3e"
+  },
+  {
+    "user_id": 4,
+    "username": "admin",
+    "password_hash": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+    "role": "moderator"
+  },
+  {
+    "user_id": 5,
+    "username": "moderator2",
+    "password_hash": "09fbcc458fb3430db7ec54ee95635e7fbc06ccfd982b49c55ec53ab8ac2397e7",
+    "role": "moderator"
+  },
+  {
+    "user_id": 6,
+    "username": "testuser2",
+    "password_hash": "ecd71870d1963316a97e3ac3408c9835ad8cf0f3c1bc703527c30265534f75ae",
+    "role": "user"
+  },
+  {
+    "user_id": 7,
+    "username": "newmod",
+    "password_hash": "8969af198f252991021b588f3151a8921b7b2f299b62293bd4ab844c52cc5a2c",
+    "role": "moderator"
+  },
+  {
+    "user_id": 8,
+    "username": "regularuser",
+    "password_hash": "9b8769a4a742959a2d0298c36fb70623f2dfacda8436237df08d8dfd5b37374c",
+    "role": "user"
+  },
+  {
+    "user_id": 9,
+    "username": "newmod_1753378708",
+    "password_hash": "8969af198f252991021b588f3151a8921b7b2f299b62293bd4ab844c52cc5a2c",
+    "role": "moderator"
+  },
+  {
+    "user_id": 10,
+    "username": "newmod_1753378713",
+    "password_hash": "8969af198f252991021b588f3151a8921b7b2f299b62293bd4ab844c52cc5a2c",
+    "role": "moderator"
+  },
+  {
+    "user_id": 11,
+    "username": "newmod_1753378976",
+    "password_hash": "8969af198f252991021b588f3151a8921b7b2f299b62293bd4ab844c52cc5a2c",
+    "role": "moderator"
+  }
+]
